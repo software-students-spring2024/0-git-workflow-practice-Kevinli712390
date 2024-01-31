@@ -1,3 +1,5 @@
 https://stackoverflow.blog/2023/12/29/the-hardest-part-of-building-software-is-not-coding-its-requirements/
 
 The article **discusses the complexities of software development**, emphasizing that the challenge often lies not in coding but in *defining clear and accurate requirements*. Not everything is around software developement is straight up coding like many might think. The article gives the example of a experience where unclear requirememnts that led to software issues. This highlighted the importance of defning specific requirements. This article also discusses the importance of AI in today's world. It talks about how much AI can do in the field of software developement such as generating working code. The main issue with AI still in the field is that it lakes the human judgment calls which can be important in final development of the software.  
+
+Josckar: I found the mathematical analogy of the article a very convincing and interesting criticism for the use of AI to replace things like drivers, where the consequences are much more severe (and very harrowing, as many policing systems are using AI).
